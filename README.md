@@ -48,8 +48,8 @@ Collections of custom characters and homebrew content.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [BOTC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource | ... | | |
-| [BOTC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource | ... | | |
+| [BOTC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
+| [BOTC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
 | [Digging Deep - A fancreation to Blood on the Clocktower](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
 | [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | ... | | |
 
