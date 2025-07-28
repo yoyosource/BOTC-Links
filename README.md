@@ -20,6 +20,8 @@ Digital grimoires that assist when playing in-person games.
 |:---|:---|:---|:---|:---|
 | Digital Grimoire | garethoates | ... | | |
 | [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | A digital version of the grimoire, allowing in-person games to be played using a phone or a tablet. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), localisation, custom-script support | |
+| [Grimmy](https://grimmy.app/) | miltage | | | |
+| [The Grim](https://the-grim.netlify.app/) | passle | | | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
 
 ## Online Grimoires
 
