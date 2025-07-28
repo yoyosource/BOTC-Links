@@ -66,6 +66,7 @@ Tools that create printable scripts.
 | [Huckler's BotC Script Generator](https://botcscriptmaker.eastus.cloudapp.azure.com/) | hucklr | ... | | |
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
 | [Zalasz Tool](https://botc-homebrew-script.vercel.app/) | zalasz | Takes a homebrew JSON file and creates a printable sheet. | | |
+| [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder | | |
 
 ## Miscellaneous Tools
 
