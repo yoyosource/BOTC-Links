@@ -18,9 +18,9 @@ Digital grimoires that assist when playing in-person games.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| Digital Grimoire | garethoates | ... | | |
-| [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | A digital version of the grimoire, allowing in-person games to be played using a phone or a tablet. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), localisation, custom-script support | |
-| [Grimmy](https://grimmy.app/) | miltage | | | |
+| [Digital Grimoire](https://botc.games/) | garethoates | A digital grimoire with a script search engine and bag drawing of roles | Bag-drawing, Localization, Script searching, Player-facing townsquare, Rearranging of the circle, Custom-script support, Custom info tokens | [Discord link](https://discord.com/channels/569683781800296501/708509594758152203/1364514741288177766) |
+| [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | A digital version of the grimoire, allowing in-person games to be played using a phone or a tablet. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), localisation, Custom-script support, botcscript integration, Custom info tokens | |
+| [Grimmy](https://grimmy.app/) | miltage | A mobile-friendly digital grimoire | Mobile-friendly, Step-by-step night order, botcscript integration | |
 | [The Grim](https://the-grim.netlify.app/) | passle | | | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
 
 ## Online Grimoires
@@ -77,6 +77,7 @@ Tools that don't fit into other categories.
 | [BloodSearch](https://botc.pikcube.com/) | pikcube | ... | | |
 | [Bloodstar Clocktica](https://www.bloodstar.xyz/) | excitemikemeyer | A tool for creating homebrew characters, the script, and almanac. | | |
 | [BOTC Script Checker](https://botcscriptcheck.github.io/) | leotheleopardnz | Checks a script of official characters to identify any issues that may exist. | | |
+| [ClockTracker](https://clocktracker.app/) |  | A site for keeping track of all of your games for you and your play group |  |  |
 | [The Grim](https://the-grim.netlify.app/) | passle | Allows players to keep notes when playing | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder | | |
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
