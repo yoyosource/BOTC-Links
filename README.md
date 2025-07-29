@@ -53,12 +53,12 @@ Tools that create printable scripts.
 
 Collections of custom characters and homebrew content.
 
-| Name | Author | Description | Features | Discord Link |
-|:---|:---|:---|:---|:---|
-| [BotC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
-| [BotC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
-| [Digging Deep](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
-| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | ... | | |
+| Name | Author | Description |
+|:---|:---|:---|
+| [BotC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | A collection of Homebrew characters that can be used anywhere |
+| [BotC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | The collection of characters currently present on the 'Festival of Fears' script |
+| [Digging Deep](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | The collection of characters currently present on the 'Digging Deep' script |
+| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | The collection of characters currently present on the 'The Labyrinth' script |
 
 ## Discord Bots
 
