@@ -11,10 +11,10 @@ Digital grimoires that assist when playing in-person games.
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
 | [Digital Grimoire](https://botc.games/) | garethoates | A digital grimoire with a script search engine and bag drawing of roles | Bag-drawing, Localization (Roles), Script searching, Player-facing townsquare, Rearranging of the circle, Custom-script support, Custom info tokens | [Discord link](https://discord.com/channels/569683781800296501/708509594758152203/1364514741288177766) |
-| [Grimmy](https://grimmy.app/) | miltage | | Bag-Drawing, Roles in both colors,  | |
+| [Grimmy](https://grimmy.app/) | miltage | A digital grimoire that automatically adds the relevant reminders at setup | Bag-Drawing, Roles in both colors, Auto-adding reminders at setup | |
 | [Grim-Sim](https://grim-sim.shoffing.com/) | shoffing | A digital grimoire with very smooth animations | Custom info token, Timer, Bag-drawing, Smooth animations, Roles in both colors, Localisation (Roles), Smooth animations |  |
 | [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | A digital version of the grimoire, allowing in-person games to be played using a phone or a tablet. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), Localisation (Roles and UI), Custom-script support, botcscript integration, Custom info tokens | |
-| [The Grim](https://the-grim.netlify.app/) | passle | A mobile-friendly digital grimoire | Mobile-friendly, Step-by-step night order, botcscript integration, Auto-adding reminders at setup | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
+| [The Grim](https://the-grim.netlify.app/) | passle | A mobile-friendly digital grimoire | Mobile-friendly, Step-by-step night order, botcscript integration,| [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
 
 ## Online Grimoires
 
