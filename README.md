@@ -1,11 +1,21 @@
 # Blood on the Clocktower Tools
 
-Here is a list of fan-made digital tools to help with playing [Blood on the Clocktower](https://bloodontheclocktower.com/) (BotC). Each tool is listed alphabetically.
+Here is a list of official and fan-made digital tools to help with playing [Blood on the Clocktower](https://bloodontheclocktower.com/) (BotC). Each tool is listed alphabetically.
 
 The author will probably be the Discord username.
 
-## In-Person Grimoires
+## Official Tools
 
+These tools were made by The Pandemonium Institute to help you fully play Blood on the Clocktower.
+
+| Name | Author | Description | Features |
+|:---|:---|:---|:---|
+| [BotC App](https://botc.app/login) | TPI | Made for playing BotC online. | Webcam support, Microphone support, Animations, Sounds, Script search |
+| [Script Tool](https://linktr.ee/bloodontheclocktower) | TPI | Tool to make role sheets for scripts. | Export PDF, Export PNG, Export JSON, Export to Clipboard, Filtering by role types, Filtering by Edition |
+| [Storyteller Quizzes](https://quiz.bloodontheclocktower.com/) | TPI | A set of quizzes meant to help you become a better Storyteller. |  |
+| [Wiki](https://wiki.bloodontheclocktower.com/) | TPI | Official BotC Wiki with details on how to play each role and how the game has recently changed | |
+
+## In-Person Grimoires
 Digital grimoires that assist when playing in-person games.
 
 | Name | Author | Description | Features | Discord Link |
@@ -17,7 +27,6 @@ Digital grimoires that assist when playing in-person games.
 | [The Grim](https://the-grim.netlify.app/) | passle | A mobile-friendly digital grimoire | Mobile-friendly, Step-by-step night order, botcscript integration,| [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
 
 ## Online Grimoires
-
 Digital grimoires that assist when playing games online.
 
 | Name | Author | Description | Features | Discord Link |
@@ -26,7 +35,6 @@ Digital grimoires that assist when playing games online.
 | [Townsquare](https://clocktower.live/) | oxenic | A free online grimoire. | [Open-Source (Github)](https://github.com/nicholas-eden/townsquare), Custom script support. | |
 
 ## Repositories
-
 Collections of data or images that other tools or fans can use.
 
 | Name | Author | Description | Features | Discord Link |
@@ -37,7 +45,6 @@ Collections of data or images that other tools or fans can use.
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
 
 ## Script Tools
-
 Tools that create printable scripts.
 
 | Name | Author | Description | Features | Discord Link |
@@ -50,7 +57,6 @@ Tools that create printable scripts.
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder (and icon builder) | | |
 
 ## Character Collections
-
 Collections of custom characters and homebrew content.
 
 | Name | Author | Description |
@@ -69,7 +75,6 @@ Collections of custom characters and homebrew content.
 | [ShadowBOT](https://github.com/ZaxVaxZ/ShadowBOT) | lieutenantdv20 | ... | [Open source (Github)](https://github.com/ZaxVaxZ/ShadowBOT) | |
 
 ## Miscellaneous Tools
-
 Tools that don't fit into other categories.
 
 | Name | Author | Description | Features | Discord Link |
