@@ -1,6 +1,6 @@
 # Blood on the Clocktower Tools
 
-Here is a list of fan-made digital tools to help with playing [Blood on the Clocktower](https://bloodontheclocktower.com/). Each tool is listed alphabetically.
+Here is a list of fan-made digital tools to help with playing [Blood on the Clocktower](https://bloodontheclocktower.com/) (BotC). Each tool is listed alphabetically.
 
 The author will probably be the Discord username.
 
@@ -27,17 +27,16 @@ Digital grimoires that assist when playing games online.
 
 ## Repositories
 
-Collections of data or images that other tools or fans can consume.
+Collections of data or images that other tools or fans can use.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
 | [BotC Icons](https://github.com/tomozbot/botc-icons) | tomozbot | A collection of unofficial icons for the officially released characters. | WEBP, PNG, and SVG formats; alternate alignment images | |
 | [BotC Scripts](https://botcscripts.com/) | admiralgt | A collection of scripts that use officially released characters (including experimental ones). | Localisation, Search features | |
 | [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | unreal_ed | A playlist that can help build atmosphere when playing in-person. | | |
-| [Navean's List](https://discord.com/channels/569683781800296501/708509594758152203/1110054909593796648) | navean | A discord list of JSON for officially released experimental characters | | |
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
 
-## Script Printers
+## Script Tools
 
 Tools that create printable scripts.
 
@@ -48,7 +47,7 @@ Tools that create printable scripts.
 | [Huckler's BotC Script Generator](https://botcscriptmaker.eastus.cloudapp.azure.com/) | hucklr | ... | | |
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
 | [Zalasz Tool](https://botc-homebrew-script.vercel.app/) | zalasz | Takes a homebrew JSON file and creates a printable sheet. | | |
-| [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder | | |
+| [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder (and icon builder) | | |
 
 ## Character Collections
 
@@ -56,9 +55,9 @@ Collections of custom characters and homebrew content.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [BOTC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
-| [BOTC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
-| [Digging Deep - A fancreation to Blood on the Clocktower](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
+| [BotC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
+| [BotC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
+| [Digging Deep](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
 | [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | ... | | |
 
 ## Discord Bots
@@ -79,8 +78,8 @@ Tools that don't fit into other categories.
 | [Bloodstar Clocktica](https://www.bloodstar.xyz/) | excitemikemeyer | A tool for creating homebrew characters, the script, and almanac. | | |
 | [BOTC Script Checker](https://botcscriptcheck.github.io/) | leotheleopardnz | Checks a script of official characters to identify any issues that may exist. | | |
 | [ClockTracker](https://clocktracker.app/) |  | A site for keeping track of all of your games for you and your play group |  |  |
-| [The Grim](https://the-grim.netlify.app/) | passle | Allows players to keep notes when playing | | |
-| [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder | | |
+| [The Grim](https://the-grim.netlify.app/) | passle | A digital grimoire but players can connect to the session to keep notes when playing | | |
+| [Klutzbanana](https://klutzbanana.com/builder) | absora | Icon builder (and script builder) | | |
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on streams | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | ... | | |
