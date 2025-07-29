@@ -67,6 +67,7 @@ Collections of custom characters and homebrew content.
 | [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | The collection of characters currently present on the 'The Labyrinth' script |
 
 ## Discord Bots
+Tools that run on Discord
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
@@ -83,8 +84,8 @@ Tools that don't fit into other categories.
 | [Bloodstar Clocktica](https://www.bloodstar.xyz/) | excitemikemeyer | A tool for creating homebrew characters, the script, and almanac. | | |
 | [BOTC Script Checker](https://botcscriptcheck.github.io/) | leotheleopardnz | Checks a script of official characters to identify any issues that may exist. | | |
 | [ClockTracker](https://clocktracker.app/) |  | A site for keeping track of all of your games for you and your play group |  |  |
-| [The Grim](https://the-grim.netlify.app/) | passle | A digital grimoire but players can connect to the session to keep notes when playing | | |
+| [The Grim](https://the-grim.netlify.app/) | passle | A digital grimoire, BUT players can connect to the session to keep notes when playing | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Icon builder (and script builder) | | |
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
-| [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on streams | | |
-| [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | ... | | |
+| [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
+| [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
