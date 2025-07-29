@@ -4,14 +4,6 @@ Here is a list of fan-made digital tools to help with playing [Blood on the Cloc
 
 The author will probably be the Discord username.
 
-## Discord Bots
-
-| Name | Author | Description | Features | Discord Link |
-|:---|:---|:---|:---|:---|
-| [Bot on the Clocktower](https://github.com/lilserf/bot-on-the-clocktower) | lilserf | A Discord bot to assist with running a game of Blood on the Clocktower on Discord | Open source (Github) | |
-| [JSON bot](https://discord.com/oauth2/authorize?client_id=1258709289850241084&permissions=3072&integration_type=0&scope=bot) | jonnynightingale | Converts script images to JSON | | |
-| [ShadowBOT](https://github.com/ZaxVaxZ/ShadowBOT) | lieutenantdv20 | ... | [Open source (Github)](https://github.com/ZaxVaxZ/ShadowBOT) | |
-
 ## In-Person Grimoires
 
 Digital grimoires that assist when playing in-person games.
@@ -21,7 +13,7 @@ Digital grimoires that assist when playing in-person games.
 | [Digital Grimoire](https://botc.games/) | garethoates | A digital grimoire with a script search engine and bag drawing of roles | Bag-drawing, Localization (Roles), Script searching, Player-facing townsquare, Rearranging of the circle, Custom-script support, Custom info tokens | [Discord link](https://discord.com/channels/569683781800296501/708509594758152203/1364514741288177766) |
 | [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | A digital version of the grimoire, allowing in-person games to be played using a phone or a tablet. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), Localisation (Roles and UI), Custom-script support, botcscript integration, Custom info tokens | |
 | [Grimmy](https://grimmy.app/) | miltage | | Bag-Drawing, Roles in both colors,  | |
-| [Grim-Sim](https://grim-sim.shoffing.com/) | shoffing |  | Custom info token, Timer, Bag-drawing, Smooth animations, Roles in both colors, Localisation (Roles)  |  |
+| [Grim-Sim](https://grim-sim.shoffing.com/) | shoffing | A digital grimoire with very smooth animations | Custom info token, Timer, Bag-drawing, Smooth animations, Roles in both colors, Localisation (Roles), Smooth animations |  |
 | [The Grim](https://the-grim.netlify.app/) | passle | A mobile-friendly digital grimoire | Mobile-friendly, Step-by-step night order, botcscript integration, Auto-adding reminders at setup | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1310282910045048923) |
 
 ## Online Grimoires
@@ -45,17 +37,6 @@ Collections of data or images that other tools or fans can consume.
 | [Navean's List](https://discord.com/channels/569683781800296501/708509594758152203/1110054909593796648) | navean | A discord list of JSON for officially released experimental characters | | |
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
 
-## Character Collections
-
-Collections of custom characters and homebrew content.
-
-| Name | Author | Description | Features | Discord Link |
-|:---|:---|:---|:---|:---|
-| [BOTC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
-| [BOTC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
-| [Digging Deep - A fancreation to Blood on the Clocktower](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
-| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | ... | | |
-
 ## Script Printers
 
 Tools that create printable scripts.
@@ -68,6 +49,25 @@ Tools that create printable scripts.
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
 | [Zalasz Tool](https://botc-homebrew-script.vercel.app/) | zalasz | Takes a homebrew JSON file and creates a printable sheet. | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder | | |
+
+## Character Collections
+
+Collections of custom characters and homebrew content.
+
+| Name | Author | Description | Features | Discord Link |
+|:---|:---|:---|:---|:---|
+| [BOTC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | ... | | |
+| [BOTC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | ... | | |
+| [Digging Deep - A fancreation to Blood on the Clocktower](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | ... | | |
+| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | ... | | |
+
+## Discord Bots
+
+| Name | Author | Description | Features | Discord Link |
+|:---|:---|:---|:---|:---|
+| [Bot on the Clocktower](https://github.com/lilserf/bot-on-the-clocktower) | lilserf | A Discord bot to assist with running a game of Blood on the Clocktower on Discord | Open source (Github) | |
+| [JSON bot](https://discord.com/oauth2/authorize?client_id=1258709289850241084&permissions=3072&integration_type=0&scope=bot) | jonnynightingale | Converts script images to JSON | | |
+| [ShadowBOT](https://github.com/ZaxVaxZ/ShadowBOT) | lieutenantdv20 | ... | [Open source (Github)](https://github.com/ZaxVaxZ/ShadowBOT) | |
 
 ## Miscellaneous Tools
 
