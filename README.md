@@ -23,7 +23,7 @@ Digital grimoires that assist when playing games online.
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
 | [Hidden Identity Games](https://hidden-identity.games/) | alphy11 | ... | [Open-source (Github)](https://github.com/Hidden-Identity-Games/blood-on-the-clocktower) | |
-| [Townsquare](https://clocktower.live/) | oxenic | A free online grimoire. | Custom script support. | |
+| [Townsquare](https://clocktower.live/) | oxenic | A free online grimoire. | [Open-Source (Github)](https://github.com/nicholas-eden/townsquare), Custom script support. | |
 
 ## Repositories
 
