@@ -15,6 +15,8 @@ These tools were made by The Pandemonium Institute to help you fully play Blood 
 | [Script Tool](https://linktr.ee/bloodontheclocktower) | TPI | Tool to make role sheets for scripts. | Export PDF, Export PNG, Export JSON, Export to Clipboard, Filtering by role types, Filtering by Edition |
 | [Storyteller Quizzes](https://quiz.bloodontheclocktower.com/) | TPI | A set of quizzes meant to help you become a better Storyteller. | Fundamentals, Trouble Brewing, Bad Moon Rising, Sects and Violets, Travelers, Fabled |
 | [Wiki](https://wiki.bloodontheclocktower.com/) | TPI | Official BotC Wiki with details on how to play each role and how the game has recently changed | Recent Changes, How to run a role, how to play as the role, how to bluff as the role |
+| World Cup (2023) | TPI | List and rankings of scripts submitted to the 2023 Script World Cup | Rankings, Link to each script's page |
+| [World Cup (2025)](https://botc.app/worldcup/leaderboard) | TPI | List and rankings of scripts submitted to the 2025 Script World Cup | Rankings, Link to each script's page, Djinn powers |
 
 ## In-Person Grimoires
 Digital grimoires that assist when playing in-person games.
@@ -72,16 +74,16 @@ Tools that run on Discord
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [Bot on the Clocktower](https://github.com/lilserf/bot-on-the-clocktower) | lilserf | A Discord bot to assist with running a game of Blood on the Clocktower on Discord | Open source (Github) | |
-| [JSON bot](https://discord.com/oauth2/authorize?client_id=1258709289850241084&permissions=3072&integration_type=0&scope=bot) | jonnynightingale | Converts script images to JSON | | |
-| [ShadowBOT](https://github.com/ZaxVaxZ/ShadowBOT) | lieutenantdv20 | ... | [Open source (Github)](https://github.com/ZaxVaxZ/ShadowBOT) | |
+| [Bot on the Clocktower](https://github.com/lilserf/bot-on-the-clocktower) | lilserf | A bot to assist with running a game on Discord | Open source (Github) | |
+| [JSON bot](https://discord.com/oauth2/authorize?client_id=1258709289850241084&permissions=3072&integration_type=0&scope=bot) | jonnynightingale | A bot that converts script images to JSON | | |
+| [ShadowBOT](https://github.com/ZaxVaxZ/ShadowBOT) | lieutenantdv20 | A bot that helps you run games on Discord and can list info on roles | [Open source (Github)](https://github.com/ZaxVaxZ/ShadowBOT) | |
 
 ## Miscellaneous Tools
 Tools that don't fit into other categories.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [BloodSearch](https://botc.pikcube.com/) | pikcube | ... | | |
+| [BloodSearch](https://botc.pikcube.com/) | pikcube | A tool to search through all the characters in the game  | | |
 | [Bloodstar Clocktica](https://www.bloodstar.xyz/) | excitemikemeyer | A tool for creating homebrew characters, the script, and almanac. | | |
 | [BOTC Script Checker](https://botcscriptcheck.github.io/) | leotheleopardnz | Checks a script of official characters to identify any issues that may exist. | | |
 | [ClockTracker](https://clocktracker.app/) |  | A site for keeping track of all of your games for you and your play group |  |  |
