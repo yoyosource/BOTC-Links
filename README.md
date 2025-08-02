@@ -15,8 +15,7 @@ These tools were made by The Pandemonium Institute to help you fully play Blood 
 | [Script Tool](https://linktr.ee/bloodontheclocktower) | TPI | Tool to make role sheets for scripts. | Export PDF, Export PNG, Export JSON, Export to Clipboard, Filtering by role types, Filtering by Edition |
 | [Storyteller Quizzes](https://quiz.bloodontheclocktower.com/) | TPI | A set of quizzes meant to help you become a better Storyteller. | Fundamentals, Trouble Brewing, Bad Moon Rising, Sects and Violets, Travelers, Fabled |
 | [Wiki](https://wiki.bloodontheclocktower.com/) | TPI | Official BotC Wiki with details on how to play each role and how the game has recently changed | Recent Changes, How to run a role, how to play as the role, how to bluff as the role |
-| World Cup (2023) | TPI | List and rankings of scripts submitted to the 2023 Script World Cup | Rankings, Link to each script's page |
-| [World Cup (2025)](https://botc.app/worldcup/leaderboard) | TPI | List and rankings of scripts submitted to the 2025 Script World Cup | Rankings, Link to each script's page, Djinn powers |
+| World Cup: 2023, [2025](https://botc.app/worldcup/leaderboard)  | TPI | List and rankings of scripts submitted to each Script World Cups | Rankings, Link to each script's page |
 
 ## In-Person Grimoires
 Digital grimoires that assist when playing in-person games.
