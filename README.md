@@ -23,7 +23,7 @@ Digital grimoires that assist when playing in-person games.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [Digital Grimoire](https://botc.games/) | garethoates | A digital grimoire with a script search engine and bag drawing of roles | Bag-drawing, Localization (Roles), Script searching, Player-facing townsquare, Rearranging of the circle, Custom-script support, Custom info tokens, Roles in both colors | [Discord link](https://discord.com/channels/569683781800296501/708509594758152203/1364514741288177766) |
+| [Digital Grimoire](https://botc.games/) | garethoates | A digital grimoire with a script search engine and bag drawing of roles | Bag-drawing, Localization (Roles, UI: English, German, French, Norwegian and Spanish), Script searching, Player-facing townsquare, Rearranging of the circle, Custom-script support, Custom info tokens, Roles in both colors | [Discord link](https://discord.com/channels/569683781800296501/708509594758152203/1364514741288177766) |
 | [Grimmy](https://grimmy.app/) | miltage | A digital grimoire that automatically adds the relevant reminders at setup | Bag-Drawing, Roles in both colors, Auto-adding reminders at setup | |
 | [Grim-Sim](https://grim-sim.shoffing.com/) | shoffing | A digital grimoire with very smooth animations | Custom info token, Timer, Bag-drawing, Smooth animations, Roles in both colors, Localisation (Roles), Smooth animations, Undo/Redo |  |
 | [Pocket Grimoire](https://pocketgrimoire.co.uk/) | skateside | The first digital grimoire, with many languages and full localizations. | [Open-source (Github)](https://github.com/Skateside/pocket-grimoire), Localisation (Roles and UI), Custom-script support, botcscript integration, Custom info tokens | |
