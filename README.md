@@ -93,3 +93,4 @@ Tools that don't fit into other categories.
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
 | [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
+| [Clocktower Compendium](https://botc.me) | [bizley](https://github.com/bizley) | Characters Interactions Database | | |
