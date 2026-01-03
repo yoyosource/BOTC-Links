@@ -44,8 +44,9 @@ Collections of data or images that other tools or fans can use.
 |:---|:---|:---|:---|:---|
 | [BotC Icons](https://github.com/tomozbot/botc-icons) | tomozbot | A collection of unofficial icons for the officially released characters. | WEBP, PNG, and SVG formats; alternate alignment images | |
 | [BotC Scripts](https://botcscripts.com/) | admiralgt | A collection of scripts that use officially released characters (including experimental ones). | Localisation, Search features | |
-| [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | unreal_ed | A playlist that can help build atmosphere when playing in-person. | | |
+| [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | Everyone | A playlist that can help build atmosphere when playing in-person. | | |
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
+| [Released as Homebrew](https://github.com/GrayPockets/Released-as-Homebrew) | purplekohav | Recreations of every released official character in homebrew format without any modifications. | | |
 
 ## Script Tools
 Tools that create printable scripts.
@@ -93,4 +94,5 @@ Tools that don't fit into other categories.
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
+| [Clocktower Compendium](https://botc.me/) | Bizley | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | |
 | [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
