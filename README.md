@@ -58,6 +58,7 @@ Tools that create printable scripts.
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
 | [Zalasz Tool](https://botc-homebrew-script.vercel.app/) | zalasz | Takes a homebrew JSON file and creates a printable sheet. | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder (and icon builder) | | |
+| [Ravenswood Studio generator](https://fancy.ravenswoodstudio.xyz/) | Silvan | Script builder using "fancy" layout | Fancy layout, colored banner, text and icon size adjustments, Town sheets | |
 
 ## Character Collections
 Collections of custom characters and homebrew content.
