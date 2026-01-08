@@ -96,3 +96,4 @@ Tools that don't fit into other categories.
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
 | [Clocktower Compendium](https://botc.me/) | Bizley | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | |
 | [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
+| [Clocktower Compendium](https://botc.me) | [bizley](https://github.com/bizley) | Characters Interactions Database | | |
