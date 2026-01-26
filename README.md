@@ -42,7 +42,7 @@ Collections of data or images that other tools or fans can use.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
-| [BotC Icons](https://github.com/tomozbot/botc-icons) | tomozbot | A collection of unofficial icons for the officially released characters. | WEBP, PNG, and SVG formats; alternate alignment images | |
+| [BotC Icons](https://github.com/tomozbot/botc-icons) | [tomozbot](https://github.com/tomozbot) | A collection of unofficial icons for the officially released characters. | WEBP, PNG, and SVG formats; alternate alignment images | |
 | [BotC Scripts](https://botcscripts.com/) | admiralgt | A collection of scripts that use officially released characters (including experimental ones). | Localisation, Search features | |
 | [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | Everyone | A playlist that can help build atmosphere when playing in-person. | | |
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
@@ -66,10 +66,10 @@ Collections of custom characters and homebrew content.
 
 | Name | Author | Description |
 |:---|:---|:---|
-| [BotC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | yoyosource, Grumbletok, Celeste, ... | A collection of Homebrew characters that can be used anywhere |
-| [BotC FoF](https://github.com/yoyosource/BOTC-FoF) | yoyosource, Grumbletok | The collection of characters currently present on the 'Festival of Fears' script |
-| [Digging Deep](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | PowerofMoll | The collection of characters currently present on the 'Digging Deep' script |
-| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | Grumbletok | The collection of characters currently present on the 'The Labyrinth' script |
+| [BotC HomeBrew](https://github.com/yoyosource/BOTC-HomeBrew) | [yoyosource](https://github.com/yoyosource), [Grumbletok](https://github.com/Grumbletok), [Celeste](https://github.com/Shad0w-Ph0enix), ... | A collection of Homebrew characters that can be used anywhere |
+| [BotC FoF](https://github.com/yoyosource/BOTC-FoF) | [yoyosource](https://github.com/yoyosource), [Grumbletok](https://github.com/Grumbletok) | The collection of characters currently present on the 'Festival of Fears' script |
+| [Digging Deep](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower) | [PowerofMoll](https://github.com/PowerofMoll) | The collection of characters currently present on the 'Digging Deep' script |
+| [The Labyrinth](https://github.com/Grumbletok/The-Labyrinth) | [Grumbletok](https://github.com/Grumbletok) | The collection of characters currently present on the 'The Labyrinth' script |
 
 ## Discord Bots
 Tools that run on Discord
@@ -94,5 +94,5 @@ Tools that don't fit into other categories.
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
-| [Clocktower Compendium](https://botc.me/) | Bizley | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | |
+| [Clocktower Compendium](https://botc.me/) | [Bizley](https://github.com/bizley) | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | |
 | [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
