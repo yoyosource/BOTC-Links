@@ -94,5 +94,5 @@ Tools that don't fit into other categories.
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
-| [Clocktower Compendium](https://botc.me/) | [Bizley](https://github.com/bizley) | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | |
+| [Clocktower Compendium](https://botc.me/) | [Bizley](https://github.com/bizley) | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1447641006613991545) |
 | [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
