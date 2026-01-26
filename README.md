@@ -92,6 +92,7 @@ Tools that don't fit into other categories.
 | [The Grim](https://the-grim.netlify.app/) | passle | A digital grimoire, BUT players can connect to the session to keep notes when playing | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Icon builder (and script builder) | | |
 | [Random Generator](https://robson.plus/botc-generator/) | drewhancock | Creates randomly generated characters. | | |
+| [Random Script Generator](https://random-botc-script.com/) | sirmalle | Creates randomly generated script. | Choose up to 4 characters to include, exclude some stuff | [Details here](https://discord.com/channels/569683781800296501/708509594758152203/1464996115488440513) |
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
 | [Clocktower Compendium](https://botc.me/) | [Bizley](https://github.com/bizley) | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1447641006613991545) |
