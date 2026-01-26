@@ -46,7 +46,7 @@ Collections of data or images that other tools or fans can use.
 | [BotC Scripts](https://botcscripts.com/) | admiralgt | A collection of scripts that use officially released characters (including experimental ones). | Localisation, Search features | |
 | [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | Everyone | A playlist that can help build atmosphere when playing in-person. | | |
 | [Script Tool Night Order](https://docs.google.com/spreadsheets/d/1vCwi17VMGjOdwi8sHoGxoNKQ7tzxocYwyyVYu0jlxHE/edit?gid=0#gid=0) | purplekohav | A spreadsheet with the night order for the characters | | |
-| [Released as Homebrew](https://github.com/GrayPockets/Released-as-Homebrew) | purplekohav | Recreations of every released official character in homebrew format without any modifications. | | |
+| [Released as Homebrew](https://github.com/GrayPockets/Released-as-Homebrew) | [GrayPockets](https://github.com/GrayPockets) | Recreations of every released official character in homebrew format without any modifications. | | |
 
 ## Script Tools
 Tools that create printable scripts.
