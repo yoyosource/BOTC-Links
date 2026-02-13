@@ -59,7 +59,7 @@ Tools that create printable scripts.
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
 | [Zalasz Tool](https://botc-homebrew-script.vercel.app/) | zalasz | Takes a homebrew JSON file and creates a printable sheet. | | |
 | [Klutzbanana](https://klutzbanana.com/builder) | absora | Script builder (and icon builder) | | |
-| [Ravenswood Studio generator](https://fancy.ravenswoodstudio.xyz/) | Silvan | Script builder using "fancy" layout | Fancy layout, colored banner, text and icon size adjustments, Town sheets | |
+| [Ravenswood Studio Fancy PDF Generator](https://fancy.ravenswoodstudio.xyz/) | [johnforster](https://github.com/JohnForster) | Script builder using official-style layout | Fancy layout, colored banner, text and icon size adjustments, town and night sheets | |
 
 ## Character Collections
 Collections of custom characters and homebrew content.
@@ -96,4 +96,6 @@ Tools that don't fit into other categories.
 | [Stream History](https://botc-streams.darragh.dev/) | drrgh | Helps find the script used on official TPI streams (up until Sept 2023) | | |
 | [Unofficial BotC Script Interactions Tool](https://lecodex.github.io/botc-interactions/) | le_codex | Tool to check the interactions between roles in your script | | |
 | [Clocktower Compendium](https://botc.me/) | [Bizley](https://github.com/bizley) | Tool to check the interactions between roles in your script | upload script, check individual roles, check role pairs | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1447641006613991545) |
-| [BOTC Icon Generator](https://johnforster.github.io/botc-icon-generator/) | [johnforster](https://github.com/JohnForster) | Icon builder | | |
+| [Ravenswood Studio Icon Generator](https://icons.ravenswoodstudio.xyz) | [johnforster](https://github.com/JohnForster) | Online icon maker | | |
+| [Ravenswood Studio Script Checker](https://script.ravenswoodstudio.xyz) | [johnforster](https://github.com/JohnForster) | Homebrew script checker to spot common mistakes | | |
+| [Ravenswood Studio Roles Revision](https://roles.ravenswoodstudio.xyz) | [johnforster](https://github.com/JohnForster) | Flashcard app to help new players learn all the official roles | | |
