@@ -36,6 +36,7 @@ Digital grimoires that assist when playing games online.
 |:---|:---|:---|:---|:---|
 | [Hidden Identity Games](https://hidden-identity.games/) | alphy11 | ... | [Open-source (Github)](https://github.com/Hidden-Identity-Games/blood-on-the-clocktower) | |
 | [Townsquare](https://clocktower.live/) | oxenic | A free online grimoire. | [Open-Source (Github)](https://github.com/nicholas-eden/townsquare), Custom script support. | |
+| [Townsquare](https://clocktower.tf/) | Pingumask | A free online grimoire. | [Open-Source (Github)](https://github.com/Pingumask/townsquare), Translations support (En, Fr & Es supported for now), Optional text chat, Storytelling guidance, In-app script building... | [French community](https://discord.gg/xQdZBq5K4t) |
 
 ## Repositories
 Collections of data or images that other tools or fans can use.
