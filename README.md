@@ -43,6 +43,7 @@ Collections of data or images that other tools or fans can use.
 
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
+| [BotC Homebrew wiki](https://botchomebrew.wiki/) | `_dj_dj_dj_` | A website to create and share Homebrew characters | Character Creator | [Discord Link](https://discord.com/channels/569683781800296501/708509594758152203/1536990186175467602) |
 | [BotC Icons](https://github.com/tomozbot/botc-icons) | [tomozbot](https://github.com/tomozbot) | A collection of unofficial icons for the officially released characters. | WEBP, PNG, and SVG formats; alternate alignment images | |
 | [BotC Scripts](https://botcscripts.com/) | admiralgt | A collection of scripts that use officially released characters (including experimental ones). | Localisation, Search features | |
 | [Melodice's BotC page](https://melodice.org/playlist/blood-on-the-clocktower-2022/) | Everyone | A playlist that can help build atmosphere when playing in-person. | | |
