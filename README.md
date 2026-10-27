@@ -55,6 +55,7 @@ Tools that create printable scripts.
 | Name | Author | Description | Features | Discord Link |
 |:---|:---|:---|:---|:---|
 | [Blood on The Clocktower Custom Script Generator](https://github.com/LectronPusher/botc-custom-script-generator) | isuffix | ... | Supports 8.5x11" | |
+| [Madness Script Maker](https://madness-script-maker.vercel.app) | thomas04 | Online tool to make script pdfs with added customization and style options| Custom images and font support, homebrew support, option to show stormcaught character, bootlegger rules and proxy tokens on script
 | [Google Sheets Script Image Generator](https://docs.google.com/spreadsheets/d/16Z5APX8n9yQPuI8ztSR7US_PP25qcpNopEW8MeQdZk8/edit?usp=sharing) | thomas04 | ... | | |
 | [Huckler's BotC Script Generator](https://botcscriptmaker.eastus.cloudapp.azure.com/) | hucklr | ... | | |
 | [json2pdf for Blood on the Clocktower](https://github.com/chizmeeple/botc-custom-script-json2pdf) | chizmeeple | ... | Open source (Github) | |
